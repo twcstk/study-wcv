@@ -1,0 +1,45 @@
+{
+  "ProjectName": "WCVPASOE",
+  "ProjectGuid": "62001221-b9a2-4c67-a997-e20db83a23cf",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.WCVPASOE",
+  "DisplayName": "WCVPASOE",
+  "Author": "",
+  "Description": "WCVPASOE",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{9c0d7f33-7509-4913-8596-d890258d39b8}",
+  "WP8ProductID": "{2a6c7d83-6d00-43f1-bed5-eadab0d94493}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.WCVPASOE",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
