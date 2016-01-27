@@ -1,10 +1,10 @@
 var jsdoSettings = { 
 
-      "serviceURI": "<enter data service uri here>",
-      "catalogURIs": "<enter data service catalog uris here>",
-      "authenticationModel": "<enter the authentication model>",
-      "displayFields": "<fields to display from table>",
-      "resourceName": "<resource name in catalog>"
+      "serviceURI": "http://localhost:8810/WCVProject",
+      "catalogURIs": "http://localhost:8810/WCVProject/static/WCVProjectService.json",
+      "authenticationModel": "Anonymous",
+      "displayFields": "policy, name1, expdat",
+      "resourceName": "bePolicyMaster"
       // TO_DO
       //, "tableName": "<tablename if multi-table resource>"
 };

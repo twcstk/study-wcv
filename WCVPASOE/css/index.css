@@ -121,3 +121,12 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+.km-view-title {
+    background-color: #62B189;
+    color: white;
+}
+
+.km-content {
+ background-color: white;    
+}
